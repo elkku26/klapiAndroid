@@ -1,4 +1,5 @@
 import React from 'react';
+import Piipaa from './components/piipaa'
 
 import {
   StyleSheet,
