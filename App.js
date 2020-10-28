@@ -29,6 +29,8 @@ const Main = () => {
     
     <Text style={styles.welcomeText}>Tervetuloa Klapiin!</Text>
 
+    <Piipaa/>
+
     </View>
     );
 };
