@@ -1,4 +1,5 @@
 import React from 'react';
+import Piipaa from './components/piipaa'
 
 import {
   StyleSheet,
@@ -28,6 +29,8 @@ const Main = () => {
     <View style={styles.container}>
     
     <Text style={styles.welcomeText}>Tervetuloa Klapiin!</Text>
+
+    <Piipaa/>
 
     </View>
     );
